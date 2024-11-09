@@ -1,0 +1,6 @@
+[book]
+authors = ["vachan-maker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Today I Learned"
