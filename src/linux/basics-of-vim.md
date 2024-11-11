@@ -7,6 +7,7 @@ If you find any mistakes here, please let me know.
 ## Additional Reference
 - [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
+- [Vim Tutorial for Beginners(video)](https://www.youtube.com/watch?v=RZ4p-saaQkc)
 
 ## Start
 
@@ -44,3 +45,9 @@ Vim has basically four modes:
  - `i` - insert before cursor
  - `A` - insert at end of line
  - `I` - insert at beginning of line
+## Undo Redo
+- `u` - Undo
+- `Ctrl` + `R` - for redo
+ ## Set line numbers or relative line numbers
+ - `set number` - to display line numbers
+ - `set relativenumber` - to display relative line number
