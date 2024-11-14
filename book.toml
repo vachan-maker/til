@@ -1,5 +1,6 @@
 [book]
-authors = ["vachan-maker"]
+authors = ["Vachan S Panicker"]
+description = "Welcome to my personal wiki!. This is a place for me to just note down and share the things that I have learned."
 language = "en"
 multilingual = false
 src = "src"
