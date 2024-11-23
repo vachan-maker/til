@@ -5,7 +5,8 @@
 # Git
 - [Push existing repo to GitHub](git/push-existing-repo.md)
 - [Useful Git Commands](git/useful-git-commands.md)
-
+# KTU
+- [Useful Stuff](KTU/useful-stuff.md)
 # Linux
 
 - [Using tar.gz](linux/using-targz.md)
