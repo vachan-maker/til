@@ -2,9 +2,10 @@
 
 [Introduction](README.md)
 
-# Git
-- [Push existing repo to GitHub](git/push-existing-repo.md)
-- [Useful Git Commands](git/useful-git-commands.md)
+# [Git]
+- [Git](git/README.md)
+    - [Push existing repo to GitHub](git/push-existing-repo.md)
+    - [Useful Git Commands](git/useful-git-commands.md)
 # KTU
 - [Useful Stuff](KTU/useful-stuff.md)
 # Linux
