@@ -4,7 +4,7 @@ description = "Welcome to my personal wiki!. This is a place for me to just note
 language = "en"
 multilingual = false
 src = "src"
-title = "Today I Learned"
+title = "Vachan's Wiki"
 [output.html]
 git-repository-url = "https://github.com/vachan-maker/til"
 edit-url-template = "https://github.com/vachan-maker/til/edit/main/{path}"
