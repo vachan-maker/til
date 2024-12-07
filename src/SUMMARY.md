@@ -19,5 +19,6 @@
 - [Thinkpad](thinkpad/README.md)
     - [Swap Fn and Ctrl Key](thinkpad/swap-fn-and-ctrl-keys.md)
     - [Linux Installation](thinkpad/linux-installation.md)
+    - [Updating the BIOS](thinkpad/updating-bios.md)
 # Web Development
 - [CSS](web-dev/css.md)
