@@ -17,6 +17,7 @@
     - [Debian Mirrors](linux/debian-sources-list.md)
 # Thinkpad
 - [Thinkpad](thinkpad/README.md)
+    - [Charging Thresholds](thinkpad/charging-thresholds.md)
     - [Swap Fn and Ctrl Key](thinkpad/swap-fn-and-ctrl-keys.md)
     - [Linux Installation](thinkpad/linux-installation.md)
     - [Updating the BIOS](thinkpad/updating-bios.md)

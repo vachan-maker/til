@@ -22,12 +22,11 @@ You can manually update the BIOS by downloading the image and flashing it on to 
 5. Extract the bootable image from the ISO:
 
     `./geteltorito.pl -o bios.img iso_file.iso`
+<div class = "warning">The below command will delete everything in your USB Drive. Make sure you don't have any important files in it</div>
+<div class = "warning"> When copying the image in your USB stick, make sure you have chosen the correct device</div>
 6. Copy the image into your USB stick by dd utility
 
-    `sudo dd if=bios.img of=/dev/sdb`
-<div class = "warning">The above command will delete everything in your USB Drive. Make sure you don't have any important files in it</div>
-<div class = "warning"> When copying the image in your USB stick, make sure you have chosen the correct device</div>
-
+    sudo dd if=bios.img of=/dev/sdb
 You now have a bootable USB drive.
 
 **Secure boot must be disabled it for the computer to boot the USB drive**

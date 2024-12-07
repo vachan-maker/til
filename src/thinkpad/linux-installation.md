@@ -1,4 +1,5 @@
 # Linux Installation
+> You can install any distribution on your laptop. In my opinion, it is better to go with Fedora or Ubuntu to make sure the hardware works as intended.
 ## Update System and BIOS
 - Before getting rid of Windows, update the BIOS using Lenovo Vantage software. For more information, visit [Lenovo's website](https://support.lenovo.com/td/en/videos/vid500028-how-to-get-the-latest-drivers-and-bios-with-lenovo-vantage)
 
