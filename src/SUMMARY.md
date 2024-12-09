@@ -21,5 +21,7 @@
     - [Swap Fn and Ctrl Key](thinkpad/swap-fn-and-ctrl-keys.md)
     - [Linux Installation](thinkpad/linux-installation.md)
     - [Updating the BIOS](thinkpad/updating-bios.md)
+# Tools
+- [ytdlp](Tools/ytdlp.md)
 # Web Development
 - [CSS](web-dev/css.md)
