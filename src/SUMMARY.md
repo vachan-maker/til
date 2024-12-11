@@ -26,3 +26,5 @@
 - [ytdlp](Tools/ytdlp.md)
 # Web Development
 - [CSS](web-dev/css.md)
+# Misc.
+- [Setting up Printer with EG8145V5](misc/setting-up-printer-with-EG8145V5)

@@ -1,0 +1,19 @@
+# Setting up a Printer with EG8145V5
+## How to set up a printer on Huawei EG8145V5 rotuter?
+This guide focuses on Linux users but even if you are a windows user - you can follow this [video](https://www.youtube.com/watch?v=9k-FVHk22gM&themeRefresh=1)
+
+1. First connect the printer to  the USB port and turn on the printer.
+2. Access the router gateway (192.168.18.1) in your browser. You may have a different gateway address....see the back of your router.
+3. Enable printer and storage sharing. Note the name of the printer as you will need it. You need to press the icon of of USB port to access the below settings. See image below.
+
+![Screenshot of router gateway...choose the USB option on the router home page to access the settings of devices connected to the ISB port](image.png)
+
+4. Open CUPS  by going to `http://localhost:631` in your browser.
+5. Go to the administration section and add the printer
+6. Choose `Internet Printing Protocol (ipp)` 
+
+![alt text](image-1.png)
+
+7. Enter the url as `http://192.168.18.1:631/printers/name_of_printer`. Replace `name_of_printer` with the name you noted down earlier from the router's gateway.
+8. Choose the manufacturer of your printer. On the next page choose the correct model and try printing  a test page.
+9. Your printer should be working.
