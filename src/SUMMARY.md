@@ -23,6 +23,7 @@
     - [Updating the BIOS](thinkpad/updating-bios.md)
 # Tools
 - [ffmpeg](Tools/ffmpeg.md)
+- [scrcpy](Tools/scrcpy.md)
 - [ytdlp](Tools/ytdlp.md)
 # Web Development
 - [CSS](web-dev/css.md)
