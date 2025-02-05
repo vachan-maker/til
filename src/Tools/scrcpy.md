@@ -14,6 +14,11 @@ scrcpy --otg
 ```
 scrcpy
 ```
+- Use with the screen off
+```
+scrcpy --turn-screen-off --no-cleanup
+```
 
+[source](https://github.com/Genymobile/scrcpy/blob/0ba9d3570560cb46b52a0696134442aeb7f634e6/doc/device.md#turn-screen-off)
 ## Screenshot
 ![alt text](image.png)
