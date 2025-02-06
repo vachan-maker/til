@@ -23,3 +23,7 @@ For first year, I mostly referred to the prescribed textbooks.
 - [Basics of FLAT by Anne Thomas](https://www.youtube.com/playlist?list=PLv-1irVkw_hTCF4OnjtzUEiwid1iYxsGs)
 - [Sudhakar Atchala](https://www.youtube.com/playlist?list=PLXj4XH7LcRfBkMlS_9aebcY78NLFwhE4M)
 - [Anita R](https://www.youtube.com/@anitar8483)
+
+## S6
+### Computer Graphics
+- [Computer Graphics (Abdul Bari)](https://www.youtube.com/watch?v=pOVGrtMT1fA)
