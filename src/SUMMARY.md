@@ -25,6 +25,7 @@
 - [ffmpeg](Tools/ffmpeg.md)
 - [scrcpy](Tools/scrcpy.md)
 - [ytdlp](Tools/ytdlp.md)
+- [pdftk](Tools/pdftk.md)
 # Web Development
 - [CSS](web-dev/css.md)
 # Misc.
