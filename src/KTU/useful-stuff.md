@@ -1,5 +1,7 @@
 # Useful Stuff for KTU
 A collection of playlists, youtube videos and channels and websites that I use for studying.
+## Subreddit
+[r/KTUKerala](https://www.reddit.com/r/KtuKerala/) - unofficial subreddit for KTU Students. It's a decent place for asking questions and having discussions.
 ## S1 & S2
 For first year, I mostly referred to the prescribed textbooks.
 ### Engineering Mechanics
@@ -27,3 +29,4 @@ For first year, I mostly referred to the prescribed textbooks.
 ## S6
 ### Computer Graphics
 - [Computer Graphics (Abdul Bari)](https://www.youtube.com/watch?v=pOVGrtMT1fA)
+- [Namitha Ramachandran](https://www.youtube.com/@NamithaRamachandran)
