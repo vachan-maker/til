@@ -1,7 +1,8 @@
 # Summary
 
 [Introduction](README.md)
-
+# Personal
+- [What's on my Phone](personal/on-my-phone.md)
 # Git
 - [Git](git/README.md)
     - [Push existing repo to GitHub](git/push-existing-repo.md)
