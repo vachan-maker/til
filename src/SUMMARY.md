@@ -24,10 +24,10 @@
     - [Linux Installation](thinkpad/linux-installation.md)
     - [Updating the BIOS](thinkpad/updating-bios.md)
 # Tools
-- [ffmpeg](Tools/ffmpeg.md)
-- [scrcpy](Tools/scrcpy.md)
-- [ytdlp](Tools/ytdlp.md)
-- [pdftk](Tools/pdftk.md)
+- [ffmpeg](tools/ffmpeg.md)
+- [scrcpy](tools/scrcpy.md)
+- [ytdlp](tools/ytdlp.md)
+- [pdftk](tools/pdftk.md)
 - [syncthing](tools/syncthing.md)
 # Web Development
 - [CSS](web-dev/css.md)

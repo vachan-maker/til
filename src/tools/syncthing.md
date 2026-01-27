@@ -1,3 +1,5 @@
+# Syncthing
+
 I use syncthing to sync files between devices.
 
 **Note**: On mobile, make sure syncthing is actually running. I was puzzled to find why syncthing wasn't running on my phone after I had installed it. Since battery saving mode was ON, the service hadn't actually started running. Just keep this in mind, if syncthing doesn't actually connect or sync properly.
