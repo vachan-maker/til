@@ -4,10 +4,10 @@
 # Personal
 - [What's on my Phone](personal/on-my-phone.md)
 # Git
-- [Git](git/README.md)
-    - [Push existing repo to GitHub](git/push-existing-repo.md)
-    - [Useful Git Commands](git/useful-git-commands.md)
-# KTU
+- [Push existing repo to GitHub](git/push-existing-repo.md)
+- [Useful Git Commands](git/useful-git-commands.md)
+# College Life & KTU
+- [Tips](KTU/tips.md)
 - [Useful Stuff](KTU/useful-stuff.md)
 # Linux
 - [Linux](linux/README.md)
@@ -29,7 +29,10 @@
 - [ytdlp](tools/ytdlp.md)
 - [pdftk](tools/pdftk.md)
 - [syncthing](tools/syncthing.md)
-# Web Development
-- [CSS](web-dev/css.md)
+- [systemd](tools/systemd.md)
+- [VS Code](tools/vscode.md)
+# Development
+- [CSS](dev/css.md)
+- [Virtual Environment](dev/venv.md)
 # Misc.
 - [Setting up Printer with EG8145V5](misc/setting-up-printer-with-EG8145V5)

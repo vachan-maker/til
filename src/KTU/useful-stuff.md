@@ -2,6 +2,8 @@
 A collection of playlists, youtube videos and channels and websites that I use for studying.
 ## Subreddit
 [r/KTUKerala](https://www.reddit.com/r/KtuKerala/) - unofficial subreddit for KTU Students. It's a decent place for asking questions and having discussions.
+## Previous Year Questions
+- PYQs can be found on [PrepKTU](https://prepktu.in/)
 ## S1 & S2
 For first year, I mostly referred to the prescribed textbooks.
 ### Engineering Mechanics

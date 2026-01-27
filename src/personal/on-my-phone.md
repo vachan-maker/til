@@ -16,3 +16,10 @@ Btw, I am an Android user and I use the OnePlus 7 as my daily driver.
 3. [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en-US)
 
     Paisa is a an expense and budget tracker. The app does a pretty good job but I think it is pretty overkill for an expense and budget tracker. I might switch from it to a more simple budget tracker. But until then, I am just going to keep using this app.
+4. [Obsidian](https://obsidian.md)
+
+    I use Obsidian for journalling. I love the offline approach of Obsidian and data doesn't leave my device.
+5. [Notion](https://notion.so)
+
+    I play the keyboard (Beginner) at my church and I needed something to keep track of the songs sung by our choir, so I found it really easy to set up a database in notion and also published it as a page on the web.
+
