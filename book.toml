@@ -8,3 +8,5 @@ title = "Vachan's Wiki"
 [output.html]
 git-repository-url = "https://github.com/vachan-maker/til"
 edit-url-template = "https://github.com/vachan-maker/til/edit/main/{path}"
+default-theme = "dark"
+preferred-dark-theme = "ayu"
