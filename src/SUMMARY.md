@@ -16,6 +16,7 @@
     - [apt package manager](apt-package.md)
     - [Basics of Vim](linux/basics-of-vim.md)
     - [Debian Mirrors](linux/debian-sources-list.md)
+    - [Check if port is in use](check-port.md)
 # Thinkpad
 - [Thinkpad](thinkpad/README.md)
     - [Charging Thresholds](thinkpad/charging-thresholds.md)
@@ -27,6 +28,7 @@
 - [scrcpy](Tools/scrcpy.md)
 - [ytdlp](Tools/ytdlp.md)
 - [pdftk](Tools/pdftk.md)
+- [syncthing](tools/syncthing.md)
 # Web Development
 - [CSS](web-dev/css.md)
 # Misc.
