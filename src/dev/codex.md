@@ -1,9 +1,9 @@
 # Working with Coding Agents (Codex)
 
-> ℹ️ **Course Source**  
+> [!NOTE]
 > Notes summarized from the OpenAI *Getting Started with Codex* crash course.
 
-> ⚠️ **AI-Generated Content Warning**  
+> [!WARNING]
 > This content was generated and structured using AI. Please review and verify commands against your project's environment.
 
 ---
