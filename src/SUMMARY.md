@@ -35,5 +35,14 @@
 - [CSS](dev/css.md)
 - [Virtual Environment](dev/venv.md)
 - [Working with Coding Agents (Codex)](dev/codex.md)
+# Laravel
+- [Laravel](laravel/README.md)
+    - [Common Artisan Commands](laravel/artisan-commands.md)
+    - [Database Migrations & Seeding](laravel/migrations.md)
+    - [Form Requests & Validation](laravel/form-requests.md)
+    - [Mailer](laravel/mailer.md)
+    - [Task Scheduling](laravel/scheduler.md)
+    - [Authorization & Policies](laravel/policies.md)
 # Misc.
 - [Setting up Printer with EG8145V5](misc/setting-up-printer-with-EG8145V5)
+
